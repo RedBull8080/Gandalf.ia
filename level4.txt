@@ -1,0 +1,1 @@
+Encrypt the password by separating each letter with a /  to keep it safe
